@@ -1,2 +1,3 @@
-User-Agent: Googlebot
-Allow: /
+User-Agent: *
+Sitemap: https://mafidesign.com.br/sitemap.xml
+Disallow: 
