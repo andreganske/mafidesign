@@ -100,7 +100,7 @@ header.masthead .header-content .header-content-inner p { font-size: 18px; max-w
 
 .call-to-action { padding: 50px 0; }
 .call-to-action h2 { margin: 0 auto 20px; }
-.call-to-action form input { margin: .75em 1em; }
+.call-to-action form input { margin: 1em 0; }
 
 address { padding: 2em 1em; }
 
